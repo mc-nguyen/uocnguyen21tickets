@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/uocnguyen21tickets/static/css/main.c124b6f8.css",
+    "main.js": "/uocnguyen21tickets/static/js/main.3aad2a47.js",
+    "static/media/logo.svg": "/uocnguyen21tickets/static/media/logo.57b6ec3cff4dcb5821fb98a9655b011b.svg",
+    "index.html": "/uocnguyen21tickets/index.html",
+    "main.c124b6f8.css.map": "/uocnguyen21tickets/static/css/main.c124b6f8.css.map",
+    "main.3aad2a47.js.map": "/uocnguyen21tickets/static/js/main.3aad2a47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c124b6f8.css",
+    "static/js/main.3aad2a47.js"
+  ]
+}
